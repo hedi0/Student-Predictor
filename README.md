@@ -7,7 +7,7 @@ An analytical project focused on predicting student performance based on various
 [![Stars](https://img.shields.io/github/stars/hedi0/Student-Predictor?style=social)](https://github.com/hedi0/Student-Predictor/stargazers)
 [![Forks](https://img.shields.io/github/forks/hedi0/Student-Predictor?style=social)](https://github.com/hedi0/Student-Predictor/network/members)
 
-![Project Preview](/preview_example.png)
+![Project Preview](/stpred_cover.png)
 
 ## ✨ Features
 
