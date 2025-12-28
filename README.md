@@ -1,6 +1,6 @@
 # Student-Predictor 🎓
 
-An analytical project focused on predicting student performance based on various influencing factors using machine learning techniques.
+An analytical project focused on predicting student Success based on various influencing factors using machine learning techniques.
 
 [![Version](https://img.shields.io/badge/version-1.0.0-blue)](https://github.com/hedi0/Student-Predictor)
 [![License](https://img.shields.io/badge/license-Apache_2.0-green)](https://github.com/hedi0/Student-Predictor/blob/main/LICENSE)
