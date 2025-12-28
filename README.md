@@ -94,7 +94,7 @@ Recall: 0.88
 F1-Score: 0.85
 
 Predictions for sample students:
-Student ID 101: Predicted Performance - High
+Student ID 101: Predicted Performance - Success
 Student ID 102: Predicted Performance - Medium
 ```
 
