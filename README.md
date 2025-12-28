@@ -98,23 +98,6 @@ Student ID 101: Predicted Performance - Success
 Student ID 102: Predicted Performance - Fail
 ```
 
-## 🗺️ Project Roadmap
-
-This project is continuously evolving. Here are some planned features and improvements:
-
-*   **Version 1.1.0:**
-    *   Integrate additional external datasets for richer feature engineering.
-    *   Explore advanced machine learning models (e.g., Gradient Boosting, Neural Networks).
-    *   Implement a robust data validation pipeline.
-*   **Version 1.2.0:**
-    *   Develop a simple web-based interface for interactive predictions.
-    *   Containerize the application using Docker for easier deployment.
-    *   Add comprehensive unit and integration tests.
-*   **Future Enhancements:**
-    *   Real-time prediction capabilities.
-    *   Support for different educational contexts and regions.
-    *   Detailed explainability reports for model predictions.
-
 ## 🤝 Contribution Guidelines
 
 We welcome contributions to the Student-Predictor project! To contribute, please follow these guidelines:
