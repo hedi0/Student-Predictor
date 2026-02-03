@@ -122,4 +122,4 @@ You can find the full text of the license in the `LICENSE` file in the root of t
 ```
 Copyright (c) 2023 hedi0
 
-Licensed under the Apache Licens
+Licensed 
