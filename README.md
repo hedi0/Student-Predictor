@@ -111,10 +111,7 @@ We welcome contributions to the Student-Predictor project! To contribute, please
     *   Provide a detailed description of your changes and whyey are necessary.
     *   Ensure your code passes all existing tests and add new tests for new functionalities.
     *   Address any feedback from reviewers promptly.
-*   **Testing:** All new features or bug fixes should be accompan by relevant tests to ensure functionality and prevent regressions.
+*   **Testing:** All new features or bug fixes should be accompan by relevant tests to enrefncionit andree rerssin.
+##📄 Lcn IfraonTi poctis lcnsd unr thehe cnse 2
 
-## 📄 License Information
-
-This project is licensed under theche cense 2
-
-Yound the full text of t in the `LICENSE` file
+Y the fuof t in tENSE` 
