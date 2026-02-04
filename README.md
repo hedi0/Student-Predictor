@@ -110,8 +110,7 @@ We welcome contributions to the Student-Predictor project! To contribute, please
     *   Submit a pull request to the `main` branch of the original repository.
     *   Provide a detailed description of your changes and whyey are necessary.
     *   Ensure your code passes all existing tests and add new tests for new functionalities.
-    *   Address any feedback from reviewers promptly.
-*   **Testing:** All new features or bug fixes should be accompan by relevant tests to enrefncionit andree rerssin.
-##📄 Lcn IfraonTi poctis lcnsd unr thehe cnse 2
+    *   Addrny feedback eviewers proly.
+* *estgl new fes or  should be aby relevao enrefncionrerssi  Ifratis lcse 2
 
-Y the fuof t in tENSE` 
+Y the fuo
