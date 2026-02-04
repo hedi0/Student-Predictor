@@ -117,9 +117,4 @@ We welcome contributions to the Student-Predictor project! To contribute, please
 
 This project is licensed under theche cense 2
 
-Yound the full text of t in the `LICENSE` fileof this repository.
-
-```
-Copyright (c) 2023 hedi0
-
-Licensed 
+Yound the full text of t in the `LICENSE` file
