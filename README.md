@@ -105,19 +105,19 @@ We welcome contributions to the Student-Predictor project! To contribute, please
 *   **Fork the Repository:** Start by forking the `Student-Predictor` repository to your GitHub account.
 *   **Create a Feature Branch:** For any new feature or bug fix, create a new branch from `main`. Use descriptive names like `feature/add-new-model` or `bugfix/resolve-data-error`.
 *   **Code Style:** Adhere to PEP 8 for Python code. Use a linter like `flake8` or `black` to ensure consistency.
-*   **Commit Messages:** Write clear, concise commit messages that explain the purpose of the commit.
+*   **Commit Messages:** Write clear, concise commit mages that explain the purpose of the commit.
 *   **Pull Requests (PRs):**
     *   Submit a pull request to the `main` branch of the original repository.
-    *   Provide a detailed description of your changes and why they are necessary.
+    *   Provide a detailed description of your changes and whyey are necessary.
     *   Ensure your code passes all existing tests and add new tests for new functionalities.
     *   Address any feedback from reviewers promptly.
-*   **Testing:** All new features or bug fixes should be accompanied by relevant tests to ensure functionality and prevent regressions.
+*   **Testing:** All new features or bug fixes should be accompan by relevant tests to ensure functionality and prevent regressions.
 
 ## 📄 License Information
 
-This project is licensed under the **Apache License 2.0**.
+This project is licensed under theche cense 2
 
-You can find the full text of the license in the `LICENSE` file in the root of this repository.
+Yound the full text of t in the `LICENSE` fileof this repository.
 
 ```
 Copyright (c) 2023 hedi0
