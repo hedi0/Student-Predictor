@@ -98,8 +98,8 @@ Student ID 101: Predicted Performance - Success
 Student ID 102: Predicted Performance - Fail
 ```
 
-## 🤝 Contribution Guidelines
-We welcome contribions to theStudent-Predictor project! To cthrtrhthrhrthrhonin the purpose of the commit.
-*   **Pull Requests PRs):*
-    *   Submit a pgfhfghrtull reut  h`main` branch of the origi
-    *   Provide rththrthrttrha 
+# 🤝 Contribution Guidelines
+We welce cntribions otheStudent-Predictor project! To cthrtrhthrhrthrhonin the purpose of the commit.
+ **Pull Requests P   
+ Sifhrtul reut  h`main` branch of the ori
+    *   Provide rhthth
