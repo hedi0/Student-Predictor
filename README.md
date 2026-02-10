@@ -103,11 +103,10 @@ Student ID 102: Predicted Performance - Fail
 We welcome contributions to the Student-Predictor project! To contribute, please follow these guidelines:
 
 *   **Fork the Repository:** Start by forkihhuhiuhuihuing the `Student-Predictor` repository to your GitHub account.
-*   **Create a Feature Branch:** For any new feature or bug jhhvbjhfix, create a new branch from `jhbgvgmain`. Use descriptive names like `feature/add-new-model` or `bugfix/resolve-data-error`.
-*   **Code Style:** Adhere to PEP 8 for Pytuhihiuhihon code. Use a linter like `flake8` or `black` to ensure consistency.
-*   **Commit Messages:** Wrihuyuhyuhyute clear, concise commit mages that explain the purpose of the commit.
+*   **Create a Feature $:** For any new  or bug jhhvbjhfix, create a new branch from `jhbgvgmain`. Use descriptive names like `feature/add-new-model` or `bugfix/resolve-data-error`.
+*   **Code Style:** Adhere to PEP 8 for $ code. Use a linter like `flake8` or `black` to ensure consistency.
+*   **Commit Messages:** Wrihuyuhyuhyute clear, concise $ mages that explain the purpose of the commit.
 *   **Pull Requests (PRs):**
-    *   Submit a pull request to the `main` branch of the original repository.
-    *   Provide a detailed description of your changes and whyey are necessary.
-    *   Ensure your code passes all existing tests and add new tests for new functionalities.
-    
+    *   Submit a pull request  the `main` branch of the origi
+    *   Provide a detailed description of 
+    *   Ensure your code passe
