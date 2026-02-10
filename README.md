@@ -101,10 +101,7 @@ Student ID 102: Predicted Performance - Fail
 ## 🤝 Contribution Guidelines
 
 We welcome contributions to the Student-Predictor project! To contribute, please follow these guidelines:
-*   **Fork the Repostory:** Start by  the `Student-Predictor`  to youitb account.
-*   **Create a Featur $:** For any new  or bug , create a new branch from  `/add-new-model` or `bugfix/resolve-data-error`.
-*   **Code Style:** Adere to PEP 8 for $ code. Use a linter like `flake8` or `black` to enu cnsistency.
-*   **Commit Messages:* Write a clear, concise $ mages that explain the purpose of the commit.
+*   **Fork the Repostory:** Start by  the *   **Create a Featur $ ,re to PEP 8 for $ code. Use a linter like , concise $ mages that explain the purpose of the commit.
 *   **Pull Requests (PRs):**
     *   Submit a pull reuest  th`main` branch of the origi
     *   Provide a detaile
