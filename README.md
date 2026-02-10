@@ -99,9 +99,7 @@ Student ID 102: Predicted Performance - Fail
 ```
 
 ## 🤝 Contribution Guidelines
-
-We welcome contributions to the Student-Predictor project! To contribute, please follow these guidelines:
-*   **Fork the Repostory:** Start by  the *   **Create a Featur $ ,re to PEP 8 for $ code. Use a linter like , concise $ mages that explain the purpose of the commit.
-*   **Pull Requests (PRs):**
-    *   Submit a pull reuest  th`main` branch of the origi
-    *   Provide a detaile
+We welcome contribions to theStudent-Predictor project! To cthrtrhthrhrthrhonin the purpose of the commit.
+*   **Pull Requests PRs):*
+    *   Submit a pgfhfghrtull reut  h`main` branch of the origi
+    *   Provide rththrthrttrha 
